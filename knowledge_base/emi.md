@@ -1,0 +1,2 @@
+# EMI calculation
+For a reducing-balance loan, monthly EMI is calculated as P × r × (1+r)^n / ((1+r)^n − 1), where P is principal, r is the monthly interest rate, and n is the number of monthly instalments. Convert an annual nominal rate to a monthly rate by dividing by 12 and converting the percentage to a decimal. When the rate is zero, EMI is principal divided by instalments. Actual repayment schedules can differ because of fees, disbursement timing, rate resets, and rounding.

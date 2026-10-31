@@ -1,0 +1,2 @@
+# Joint accounts
+Joint account holders and operating instructions must be recorded according to the selected account mandate, such as jointly or either-or-survivor where offered. All holders must complete required identity verification and consent steps. Rights to operate, receive notices, or request closure depend on the mandate and applicable terms. Verify the specific account instruction before describing who may act.

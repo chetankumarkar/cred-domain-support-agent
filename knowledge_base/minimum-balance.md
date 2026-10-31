@@ -1,0 +1,2 @@
+# Minimum balance
+Any minimum-balance requirement belongs to the specific deposit account product and may differ by account variant and location. A shortfall can result in a disclosed charge only where the product terms permit it. Check the current schedule before stating a threshold or fee, and distinguish a deposit-account balance rule from a loan repayment obligation. A support answer should not invent a universal minimum.

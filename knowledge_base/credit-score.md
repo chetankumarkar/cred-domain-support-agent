@@ -1,0 +1,2 @@
+# Credit-score factors
+Credit scores may reflect repayment history, credit utilization, account age, credit mix, and recent enquiries, as determined by the reporting bureau's model. Missed payments and high utilization can adversely affect a score, while consistent on-time repayment can support a healthy history over time. Lenders use additional underwriting information and do not make a decision from a score alone. A support agent cannot guarantee a particular score change or approval.

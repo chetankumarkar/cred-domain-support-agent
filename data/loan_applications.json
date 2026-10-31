@@ -1,0 +1,402 @@
+[
+  {
+    "record_id": "CRD-0001",
+    "category": "Business Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 2377000,
+    "days_since_created": 27,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0002",
+    "category": "Personal Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 2007000,
+    "days_since_created": 28,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0003",
+    "category": "Personal Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 4374000,
+    "days_since_created": 11,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0004",
+    "category": "Home Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 2423000,
+    "days_since_created": 6,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0005",
+    "category": "Personal Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 4639000,
+    "days_since_created": 10,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0006",
+    "category": "Education Loan",
+    "status": "Approved",
+    "loan_amount_inr": 1488000,
+    "days_since_created": 15,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0007",
+    "category": "Personal Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 4345000,
+    "days_since_created": 1,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0008",
+    "category": "Personal Loan",
+    "status": "Approved",
+    "loan_amount_inr": 2420000,
+    "days_since_created": 29,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0009",
+    "category": "Auto Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 4090000,
+    "days_since_created": 24,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0010",
+    "category": "Home Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 2297000,
+    "days_since_created": 2,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0011",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 4683000,
+    "days_since_created": 7,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0012",
+    "category": "Business Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 2482000,
+    "days_since_created": 2,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0013",
+    "category": "Auto Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 4606000,
+    "days_since_created": 8,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0014",
+    "category": "Personal Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 3801000,
+    "days_since_created": 6,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0015",
+    "category": "Auto Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 4760000,
+    "days_since_created": 19,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0016",
+    "category": "Education Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 1829000,
+    "days_since_created": 12,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0017",
+    "category": "Business Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 1388000,
+    "days_since_created": 24,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0018",
+    "category": "Education Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 2703000,
+    "days_since_created": 15,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0019",
+    "category": "Education Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 716000,
+    "days_since_created": 26,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0020",
+    "category": "Auto Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 3493000,
+    "days_since_created": 24,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0021",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 1948000,
+    "days_since_created": 11,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0022",
+    "category": "Education Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 469000,
+    "days_since_created": 30,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0023",
+    "category": "Auto Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 4534000,
+    "days_since_created": 3,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0024",
+    "category": "Business Loan",
+    "status": "Approved",
+    "loan_amount_inr": 2763000,
+    "days_since_created": 7,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0025",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 2966000,
+    "days_since_created": 24,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0026",
+    "category": "Home Loan",
+    "status": "Approved",
+    "loan_amount_inr": 4246000,
+    "days_since_created": 29,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0027",
+    "category": "Auto Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 2649000,
+    "days_since_created": 19,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0028",
+    "category": "Auto Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 709000,
+    "days_since_created": 28,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0029",
+    "category": "Business Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 1221000,
+    "days_since_created": 1,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0030",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 1688000,
+    "days_since_created": 30,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0031",
+    "category": "Education Loan",
+    "status": "Approved",
+    "loan_amount_inr": 247000,
+    "days_since_created": 20,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0032",
+    "category": "Education Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 128000,
+    "days_since_created": 23,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0033",
+    "category": "Personal Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 2416000,
+    "days_since_created": 21,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0034",
+    "category": "Business Loan",
+    "status": "Approved",
+    "loan_amount_inr": 1854000,
+    "days_since_created": 6,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0035",
+    "category": "Auto Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 2101000,
+    "days_since_created": 11,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0036",
+    "category": "Education Loan",
+    "status": "Approved",
+    "loan_amount_inr": 4026000,
+    "days_since_created": 13,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0037",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 4565000,
+    "days_since_created": 7,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0038",
+    "category": "Home Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 2162000,
+    "days_since_created": 7,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0039",
+    "category": "Personal Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 4183000,
+    "days_since_created": 25,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0040",
+    "category": "Business Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 4618000,
+    "days_since_created": 4,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0041",
+    "category": "Personal Loan",
+    "status": "Under Review",
+    "loan_amount_inr": 2429000,
+    "days_since_created": 15,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0042",
+    "category": "Education Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 2004000,
+    "days_since_created": 10,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0043",
+    "category": "Education Loan",
+    "status": "Approved",
+    "loan_amount_inr": 2461000,
+    "days_since_created": 14,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0044",
+    "category": "Auto Loan",
+    "status": "Approved",
+    "loan_amount_inr": 2229000,
+    "days_since_created": 29,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0045",
+    "category": "Auto Loan",
+    "status": "Submitted",
+    "loan_amount_inr": 3664000,
+    "days_since_created": 18,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0046",
+    "category": "Business Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 3611000,
+    "days_since_created": 0,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0047",
+    "category": "Business Loan",
+    "status": "Approved",
+    "loan_amount_inr": 1359000,
+    "days_since_created": 19,
+    "flagged_for_fraud_review": true
+  },
+  {
+    "record_id": "CRD-0048",
+    "category": "Home Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 1850000,
+    "days_since_created": 30,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0049",
+    "category": "Personal Loan",
+    "status": "Rejected",
+    "loan_amount_inr": 1245000,
+    "days_since_created": 14,
+    "flagged_for_fraud_review": false
+  },
+  {
+    "record_id": "CRD-0050",
+    "category": "Business Loan",
+    "status": "Disbursed",
+    "loan_amount_inr": 2468000,
+    "days_since_created": 21,
+    "flagged_for_fraud_review": false
+  }
+]

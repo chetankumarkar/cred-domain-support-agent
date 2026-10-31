@@ -1,0 +1,2 @@
+# Application status meanings
+Submitted means the application has been received for processing. Under Review means checks are continuing and additional information may be requested. Approved indicates a conditional or final sanction according to the lender's notice; disbursement may still require completion of conditions. Rejected means the application did not meet the decision criteria, and the member should use the formal communication for available details. Disbursed means funds have been released, subject to the record's disbursement details.

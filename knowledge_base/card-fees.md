@@ -1,0 +1,2 @@
+# Credit-card fee structure
+Card fees may include an annual or joining fee, cash-advance charges, late-payment fees, and taxes applicable to each charge. The applicable amount depends on the card product and the current schedule of charges disclosed to the cardholder. Interest on revolving balances is separate from transaction fees and can accrue until dues are cleared. Support staff should verify the member's product schedule before quoting a specific fee.

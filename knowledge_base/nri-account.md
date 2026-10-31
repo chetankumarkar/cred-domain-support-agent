@@ -1,0 +1,2 @@
+# NRI account eligibility
+Non-resident Indian account eligibility and permitted account types depend on residency status, source of funds, documentation, and current regulatory requirements. Applicants may be asked for passport, overseas address evidence, visa or residency evidence, and tax declarations through approved onboarding. Reclassification may be required if residency changes. Confirm current requirements with the authorized NRI onboarding team rather than relying on a generic checklist.

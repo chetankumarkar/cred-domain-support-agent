@@ -1,0 +1,11 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pydantic>=2.8,<3
+sentence-transformers>=3.0,<6
+chromadb>=0.5,<2
+crewai>=0.80,<2
+autogen-agentchat>=0.4,<1
+autogen-core>=0.4,<1
+autogen-ext>=0.4,<1
+langchain-core>=0.3,<2
+websockets>=12,<16

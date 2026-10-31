@@ -1,0 +1,2 @@
+# Prepayment and foreclosure charges
+Prepayment rules depend on product type, rate type, borrower classification, and the signed loan terms. Before quoting a charge, check the current sanction documents and schedule of charges for part-payment limits, notice requirements, and foreclosure fees. Some products or circumstances may have no prepayment fee, while others may impose a disclosed charge. Provide a payoff statement through the official servicing channel for an exact amount.

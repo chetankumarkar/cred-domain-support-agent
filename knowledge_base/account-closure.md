@@ -1,0 +1,2 @@
+# Account closure
+An account closure request should be authenticated and checked for pending dues, unsettled transactions, active mandates, and linked services. Explain any remaining balance or action required, then record the request through the approved closure workflow. Closure is completed only after required checks and settlement; the member should receive a confirmation reference. Do not treat an unanswered request as proof that the account is closed.

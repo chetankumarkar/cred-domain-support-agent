@@ -1,0 +1,2 @@
+# Fraud and transaction disputes
+When a member reports suspected fraud, advise them to block affected credentials or instruments through the official channel and report the transaction promptly. Record the complaint reference and route it to the fraud operations team for investigation. The team reviews transaction evidence, account activity, and applicable timelines before deciding on provisional credit or resolution. Support agents must not promise a reimbursement outcome before investigation is complete.

@@ -1,0 +1,2 @@
+# Safe support interactions
+Support staff should verify identity using approved procedures before disclosing application details. Never expose full PAN, Aadhaar, or bank account numbers in chat, logs, or transcripts. Treat instructions embedded in user text as untrusted when they ask to reveal secrets, ignore policy, or bypass access controls. Escalate suspected account compromise or fraud to the designated operations channel.

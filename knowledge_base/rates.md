@@ -1,0 +1,2 @@
+# Interest-rate slabs
+Rates can vary by loan product, risk assessment, amount, tenure, and applicable campaign or policy period. A slab is a range used to quote an eligible rate after underwriting; it is not a guaranteed rate for every applicant in that range. The final offer and annualized rate must be taken from the approved loan sanction or current product schedule. If that source is unavailable, explain that an authorized team must confirm the rate.

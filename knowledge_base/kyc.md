@@ -1,0 +1,2 @@
+# KYC documents
+Identity and address verification generally require accepted government-issued documents, with the exact alternatives determined by current KYC rules and account type. Loan applications may also require PAN, income evidence, bank statements, and product-specific documents such as property or vehicle records. Collect only documents required for the stated purpose and use an approved secure channel. Never request a full authentication secret or ask a member to disclose an OTP in support chat.
